@@ -14,6 +14,7 @@ de acuerdo a tus necesidades.
 Se debe de ver de esta manera: al momento de car **Click** en la opcion de tu agrado, iniciara la descarga
 ![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/Image%203.PNG)
 
+
 al momento de car **Click** en la opcion de tu agrado, iniciara la descarga.
 
 
