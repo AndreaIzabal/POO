@@ -12,6 +12,8 @@ de acuerdo a tus necesidades.
 Se debe de ver de esta manera, al momento de car **Click** en la opcion de tu agrado, iniciara la descarga
 ![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/Image%203.PNG)
 
+Para instalar unicamente debes dar **Siguiente** en los parametros que te pida y listo.
+
 ## Instalación y configuración de Visual Studio Code para C#.
 Como primer paso es entrar al siguiente [Link](https://code.visualstudio.com/).
 
