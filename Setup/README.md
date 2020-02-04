@@ -9,6 +9,7 @@ La pagina de ve asi:
 ![fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/Image%202.PNG)
 Como acto siguiente elegimos el dispositivo en que lo deseamos descargar y en que modalidad para despues pasar a descargar
 de acuerdo a tus necesidades.
+
 Se debe de ver de esta manera, al momento de car **Click** en la opcion de tu agrado, iniciara la descarga
 ![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/Image%203.PNG)
 
