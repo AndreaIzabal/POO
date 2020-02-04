@@ -23,7 +23,15 @@ Para instalar unicamente debes dar **Siguiente** en los parametros que te pida y
 ## Instalación y configuración de Visual Studio Code para C#.
 Como primer paso es entrar al siguiente [Link](https://code.visualstudio.com/).
 La pagina se debe de ver de la siguiente manera:
-![Fuente]()
+![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/Imagen%201.PNG)
+
+
+Al entrar a la pagina lo primero que tendras que hacer sera elegir la opcion que necesites 
+de preferencia para tu dispositivo en este caso computadora.
+Se vera de la siguiente manera:
+![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/Image%201.1.PNG)
+
+Para instalar el programa unicamente deberas pulsar **Siguiente** y el programa iniciara solo.
 
 
 
