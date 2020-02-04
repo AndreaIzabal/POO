@@ -11,7 +11,7 @@ Como acto siguiente elegimos el dispositivo en que lo deseamos descargar y en qu
 de acuerdo a tus necesidades.
 
 
-Se debe de ver de esta manera: al momento de car **Click** en la opcion de tu agrado, iniciara la descarga
+Se debe de ver de esta manera: 
 ![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/Image%203.PNG)
 
 
