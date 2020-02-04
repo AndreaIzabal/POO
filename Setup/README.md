@@ -6,7 +6,7 @@ Lo primero que tenemos que hacer es bajar el archivo de instalacion del siguient
 Es importante bajar el SDK, por que **vamos a programar**
 
 La pagina de ve asi:
-![Sadsa](./img/C:\Users\andre\OneDrive\Documentos\GitHub\POO\Setup\IMG\03-02-2020.PNG.png)
+![fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/03-02-2020.PNG).
 Como acto siguiente elegimos el dispositivo en que lo deseamos descargar y en que modalidad para despues pasar a descargar 
 
 ## Instalación y configuración de Visual Studio Code para C#.
