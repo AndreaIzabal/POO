@@ -40,8 +40,12 @@ en nuestra cuenta de github, entrar al siguiente [Link](https://git-scm.com/).
 la pagina se debe de mostar de esta manera:
 ![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/image%202%2C2.PNG)
 
+
+
 Para instalar seleccionamos el boton de descargas
 ![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/Image%203.1.PNG)
+
+
 
 para acto seguido seleccionar el metodo de descarga de tu necesidad, se vera de la
 siguiente manera 
