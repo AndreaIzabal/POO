@@ -48,7 +48,10 @@ Para instalar seleccionamos el boton de descargas
 ![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/Image%203.1.PNG)
 
 
-para acto seguido seleccionar el metodo de descarga de tu necesidad, se vera de la
+Para acto seguido seleccionar el metodo de descarga de tu necesidad, se vera de la
 siguiente manera 
 ![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/image%203.2.PNG)
 
+Una vez comenzada la descarga iniciamos la instalacion.
+Te saldra un icono de la siguiente manera:
+![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/image%203.3.PNG)
