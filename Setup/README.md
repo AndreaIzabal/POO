@@ -31,11 +31,11 @@ de preferencia para tu dispositivo en este caso computadora.
 Se vera de la siguiente manera:
 ![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/Image%201.1.PNG)
 
-Para instalar el programa unicamente deberas pulsar **Siguiente** y el programa iniciara solo."?
+Para instalar el programa unicamente deberas pulsar **Siguiente** y el programa iniciara solo.
 
 
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
 Como primer paso es necesario entrar a la pagina para instalar el programa y empezar a enlazarlo
-en nuestra cuenta de github, entrar al siguiente [Link](https://git-scm.com/).
+en nuestra cuenta de github, entrar al siguiente [Link](https://git-scm.com/). 
 la pagina se debe de mostar de esta manera:
 ![Fuente]()
