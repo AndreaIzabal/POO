@@ -43,8 +43,9 @@ la pagina se debe de mostar de esta manera:
 
 
 Para instalar seleccionamos el boton de descargas
-![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/Image%203.1.PNG)
 
+
+![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/Image%203.1.PNG)
 
 
 para acto seguido seleccionar el metodo de descarga de tu necesidad, se vera de la
