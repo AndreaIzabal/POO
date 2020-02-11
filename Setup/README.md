@@ -34,7 +34,6 @@ Se vera de la siguiente manera:
 Para instalar el programa unicamente deberas pulsar **Siguiente** y el programa iniciara solo."?
 
 
-
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
 Como primer paso es necesario entrar a la pagina para instalar el programa y empezar a enlazarlo
 en nuestra cuenta de github, entrar al siguiente [Link](https://git-scm.com/).
