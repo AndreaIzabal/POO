@@ -9,21 +9,24 @@ namespace Peliculas
         public string Pais;
         public string Director;
         
-         public string GetTitulo()
+         public Peliculas GetTitulo(string T, int A)
          {
-             return Titulo;
-         }
-         public string SetTitulo()
-         {
-             return Titulo;
-         }
-         public int GetAño()
-         {
+             Titulo= T;
+             return T;
+
+             Año=A;
              return Año;
          }
-         public int SetAño()
+         public Peliculas SetTitulo( string T)
          {
-             return Año;
+             Titulo= T;
+             return T;
+         }
+    
+         public Peliculas SetAño(int A)
+         {
+             Año=A;
+             return A;
          }
 
     }
