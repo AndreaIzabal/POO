@@ -2,26 +2,13 @@
 
 namespace Peliculas
 {
-<<<<<<< HEAD
-     class Peliculas
+    class Peliculas
     {
         public string Titulo;
         public int Año;
-=======
-    class Peliculas
-    {
-        public string titulo;
-        public int16 año;
->>>>>>> 9f41e708d1dbfa591963f71fd39953603275b680
-        public string pais;
-        public string director;
+        public string Pais;
+        public string Director;
         
-        //Constructor
-<<<<<<< HEAD
-        public Peliculas()
-        {
-         
-        }
          public string GetTitulo()
          {
              return Titulo;
@@ -38,20 +25,12 @@ namespace Peliculas
          {
              return Año;
          }
-=======
-        public Pelicula(string T, int16 a )
-        {
-         
-        }
-
 
     }
->>>>>>> 9f41e708d1dbfa591963f71fd39953603275b680
     class Program
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
          Peliculas p1 = new Peliculas();
          p1.SetTitulo("La La Land");
          p1.SetAño(2016); 
@@ -67,18 +46,3 @@ namespace Peliculas
         }
     }
 }
-=======
-         Pelicula p1 = new Pelicula();
-         p1.SetTitulo("La La Land");
-         p1.SetAño(2016); 
-         Console.WriteLine("{0}({1})", p1.GetTitulo(), p1.GetAño());
-         Pelicula p2 = new pelicula();
-         p2.SetTitulo("Frozen");
-         p2.SetAño(2016);
-         Console.WriteLine("{0}({2})"),p2.GetTitulo().p2.GetAño());
- 
-        }
-    }
-}
-
->>>>>>> 9f41e708d1dbfa591963f71fd39953603275b680
