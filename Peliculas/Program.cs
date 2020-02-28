@@ -5,29 +5,30 @@ namespace Peliculas
     class Peliculas
     {
         public string Titulo;
-        public int Año;
+        public Int16 Año;
         public string Pais;
         public string Director;
         
-         public Peliculas GetTitulo(string T, int A)
+         public void SetTitulo(string Titulo)
          {
-             Titulo= T;
-             return T;
-
-             Año=A;
-             return Año;
+             this.Titulo= Titulo;
          }
-         public Peliculas SetTitulo( string T)
+         public string GetTitulo() => Titulo; 
+         public void SetAño(Int16 Año)
          {
-             Titulo= T;
-             return T;
+             this.Año=Año;
          }
-    
-         public Peliculas SetAño(int A)
+         public Int16 GetAño() => Año;
+         public void SetPais(string Pais)
          {
-             Año=A;
-             return A;
+             this.Pais=Pais;
          }
+         public string GetPais() => Pais;
+         public void SetDirector(string Director)
+         {
+             this.Director=Director;
+         }
+         public string GetDirector() => Director;
 
     }
     class Program
@@ -35,17 +36,17 @@ namespace Peliculas
         static void Main(string[] args)
         {
          Peliculas p1 = new Peliculas();
-         p1.SetTitulo("La La Land");
-         p1.SetAño(2016); 
-         Console.WriteLine("{0}({1}");
-         p1.GetTitulo();
-         p1.GetAño();
-         Peliculas p2 = new Peliculas ();
-         p2.SetTitulo("Frozen");
+         p1.SetTitulo("Green Book");
+         p1.SetAño(2016);
+         p1.SetPais("EEUU");
+         p1.SetDirector( "Peter Farrelly");
+         Console.WriteLine( "{0} {1} {2} {3}", p1.GetTitulo(), p1.GetAño(),  p1.GetPais() ,p1.GetDirector() );
+         Peliculas p2 = new Peliculas();
+         p2.SetTitulo("Bohemian Rhapsody");
          p2.SetAño(2016);
-         Console.WriteLine("{0}({2})");
-         p2.GetTitulo();
-         p2.GetAño();
+         p2.SetPais("EEUU");
+         p2.SetDirector( "Bryan Singer");
+         Console.WriteLine( "{0} {1} {2} {3} ", p2.GetTitulo(), p2.GetAño(),  p2.GetPais() ,p2.GetDirector() );
         }
     }
 }
