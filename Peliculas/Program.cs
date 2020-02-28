@@ -1,9 +1,12 @@
-﻿using System;
+﻿using System.Collections.Generic;
+using System.Collections;
+using System;
 
 namespace Peliculas
 {
     class Peliculas
     {
+        public Peliculas (){}
         public string Titulo;
         public Int16 Año;
         public string Pais;
@@ -41,12 +44,22 @@ namespace Peliculas
          p1.SetPais("EEUU");
          p1.SetDirector( "Peter Farrelly");
          Console.WriteLine( "{0} {1} {2} {3}", p1.GetTitulo(), p1.GetAño(),  p1.GetPais() ,p1.GetDirector() );
+         
          Peliculas p2 = new Peliculas();
          p2.SetTitulo("Bohemian Rhapsody");
          p2.SetAño(2016);
          p2.SetPais("EEUU");
          p2.SetDirector( "Bryan Singer");
          Console.WriteLine( "{0} {1} {2} {3} ", p2.GetTitulo(), p2.GetAño(),  p2.GetPais() ,p2.GetDirector() );
+
+        List<Peliculas> lista = new List<Peliculas>();
+        lista.Add(p1);
+        lista.Add(p2);
+
+        foreach(Peliculas movie in lista)
+        {
+            Console.WriteLine(movie.Titulo);
+        }
         }
     }
 }
