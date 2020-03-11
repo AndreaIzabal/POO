@@ -11,6 +11,7 @@ namespace Peliculas
         public Int16 Año;
         public string Pais;
         public string Director;
+        public string Actor;
         
          public void SetTitulo(string Titulo)
          {
@@ -32,6 +33,12 @@ namespace Peliculas
              this.Director=Director;
          }
          public string GetDirector() => Director;
+          public void AgregarActor(string Actor)
+         {
+             this.Actor= Actor;
+         }
+         public string AgregarActor()=> Actor;
+         
 
     }
     class Program
@@ -43,14 +50,16 @@ namespace Peliculas
          p1.SetAño(2016);
          p1.SetPais("EEUU");
          p1.SetDirector( "Peter Farrelly");
-         Console.WriteLine( "{0} {1} {2} {3}", p1.GetTitulo(), p1.GetAño(),  p1.GetPais() ,p1.GetDirector() );
+         p1.AgregarActor("Viggo Mortensen");
+         Console.WriteLine( "{0} {1} {2} {3} {4}", p1.GetTitulo(), p1.GetAño(),  p1.GetPais() ,p1.GetDirector(), p1.AgregarActor());
          
          Peliculas p2 = new Peliculas();
          p2.SetTitulo("Bohemian Rhapsody");
          p2.SetAño(2016);
          p2.SetPais("EEUU");
          p2.SetDirector( "Bryan Singer");
-         Console.WriteLine( "{0} {1} {2} {3} ", p2.GetTitulo(), p2.GetAño(),  p2.GetPais() ,p2.GetDirector() );
+         p2.AgregarActor("Rami Malek");
+         Console.WriteLine( "{0} {1} {2} {3} {4}", p2.GetTitulo(), p2.GetAño(),  p2.GetPais() ,p2.GetDirector(), p1.AgregarActor());
 
         List<Peliculas> lista = new List<Peliculas>();
         lista.Add(p1);
@@ -62,4 +71,4 @@ namespace Peliculas
         }
         }
     }
-}
+}  
