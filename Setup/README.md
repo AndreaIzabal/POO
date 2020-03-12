@@ -33,25 +33,5 @@ Se vera de la siguiente manera:
 
 Para instalar el programa unicamente deberas pulsar **Siguiente** y el programa iniciara solo.
 
-
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
-Como primer paso es necesario entrar a la pagina para instalar el programa y empezar a enlazarlo
-en nuestra cuenta de github, entrar al siguiente [Link](https://git-scm.com/). 
-la pagina se debe de mostar de esta manera:
-![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/image%202%2C2.PNG)
 
-
-
-Para instalar seleccionamos el boton de descargas
-
-
-![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/Image%203.1.PNG)
-
-
-Para acto seguido seleccionar el metodo de descarga de tu necesidad, se vera de la
-siguiente manera 
-![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/image%203.2.PNG)
-
-Una vez comenzada la descarga iniciamos la instalacion.
-Te saldra un icono de la siguiente manera:
-![Fuente](https://github.com/AndreaIzabal/POO/blob/master/Setup/IMG/image%203.3.PNG)
