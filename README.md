@@ -2,4 +2,8 @@
 
 [Actividad1](./Setup/README.md)
 
-[Actividad2](./UML/README.md)
+[Avtividad2](./Peliculas/Program.cs)
+
+[Actividad3](./UML/README.md)
+
+[Actividad4](./Parametros/Program.cs)
